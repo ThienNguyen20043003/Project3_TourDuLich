@@ -1,7 +1,10 @@
+Thực hiện và sửa lại theo mẫu có sẵn của Nguyễn Minh Phương
+Sinh viên sử dụng lại và chỉnh sửa lại với mục đích học tâp: Nguyễn Minh Thiện
+
 # Tên đề tài: Xây dựng Website giới thiệu tour du lịch và đặt tour trực tuyến
 - Công nghệ sử dụng: MySQL, PHP, Laravel FrameWork, Apache WebServer, XAMPP
 - Lớp: Thiết kế web nâng cao-1-3-23(N02)
-- Sinh viên thực hiện: Nguyễn Minh Phương - 21012084
+- Sinh viên thực hiện BẢN GỐC: Nguyễn Minh Phương - 21012084
   
 - Giảng viên hướng dẫn :
   + TS. Nguyễn Lệ Thu
